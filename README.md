@@ -26,14 +26,15 @@ The goal of the project is to learn the REST API
 http://video-film-app.herokuapp.com/api/cassetts/all
 
 ## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* getAll (uses @GetMapping)
+* getById (uses @GetMapping)
+* addVideo (uses @PostMapping)
+* updateVideo (uses @PutMapping)
+* deleteVideo (uses @DeleteMapping)
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* add Front-end
+
 
 ## Status
 Project is:_finished_
