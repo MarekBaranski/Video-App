@@ -15,7 +15,7 @@ simply CRUD project [Spring boot, H2, Heroku]
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
-![WebApp](https://github.com/MarekBaranski/Video-App/image/screenshot.jpg)
+![WebApp](./image/screenshot.jpg)
 
 ## Technologies
 * Java - version 1.8
