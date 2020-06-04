@@ -1,18 +1,18 @@
 # Video-App
-simply CRUD project [Spring boot, H2, Heroku]
+simply CRUD project
 
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [ViewLink](#viewLink)
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+The goal of the project is to learn the REST API
 
 ## Screenshots
 ![WebApp](./image/screenshot.jpg)
@@ -22,12 +22,8 @@ Add more general information about project. What the purpose of the project is? 
 * Spring boot
 * Heroku
 
-## Setup
+## ViewLink
 http://video-film-app.herokuapp.com/api/cassetts/all
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
 
 ## Features
 List of features ready and TODOs for future development
