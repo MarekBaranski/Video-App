@@ -15,7 +15,8 @@ simply CRUD project
 The goal of the project is to learn the REST API
 
 ## Screenshots
-![WebApp](./image/screenshot.jpg)
+![WebApp](./image/screenshot.JPG)
+
 
 ## Technologies
 * Java - version 1.8
